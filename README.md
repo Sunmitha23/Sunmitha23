@@ -11,7 +11,7 @@ Outside of class, you can find me at the gym, playing badminton, doing yoga and 
 | 🔍 **Interested in** | AI/ML · data analysis · human-computer interaction · digital accessibility |
 | 📚 **Currently learning** | Web development through the ICSSC Fellowship (HTML, CSS, JavaScript, React) |
 | 🛠️ **Currently building** | ReachOut, a personal full-stack project for tracking networking and referrals |
-| ❤️ **I'm open to** | SWE internship and research opportunities. I'm always happy to say hi, whether you need a hackathon teammate or a collaborator on a project! |
+| ❤️ **I'm open to** | SWE internship, research and club opportunities. I'm always happy to say hi, whether you need a hackathon teammate or a collaborator on a project! |
 
 
 Feel free to connect with me on any of the following channels:
