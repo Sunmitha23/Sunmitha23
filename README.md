@@ -123,7 +123,7 @@ An app that helps you find customized third-spaces and hangout spots!
 
 B.S. Software Engineering, expected 2028
 
-**Coursework:** Data Structures and Algorithms · Software Design and Applications · Software Testing · Intermediate Programming in Python · Programming in C++ · Computer Organization and Assembly · Requirements Engineering · Project Management · Probability and Statistics
+**Coursework:** Data Structures and Algorithms · Software Design and Applications · Software Testing · Intermediate Programming in Python · Programming in C++ · Computer Organization and Assembly · Requirements Engineering · Project Management · Linear Algebra · Advanced Calculus · Probability and Statistics
 
 ---
 
